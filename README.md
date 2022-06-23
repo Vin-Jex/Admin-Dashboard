@@ -11,3 +11,4 @@ Based on individual administrative rights, modules can be added from the Add Mod
 
 
 
+### For Live Demo [Admin Dashboard](https://pythonichub-admin-dashboard.vercel.app/)
