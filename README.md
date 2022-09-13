@@ -38,7 +38,9 @@ cd Admin-Dashboard
 * HTML5
 * CSS3
 * JavaScript
-* 
+* Material Icons
+* Google Fonts
+
 
 
 
